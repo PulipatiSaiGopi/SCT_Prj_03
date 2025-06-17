@@ -1,7 +1,7 @@
 # SCT_Prj_03
 SCT_DS_03-Task3
 
-Here's a comprehensive overview based on your uploaded dataset files (bank.csv, bank-full.csv, and bank-names.txt) related to a bank marketing campaign prediction task.
+Here's a comprehensive overview of the datasets:
 
 
 ---
